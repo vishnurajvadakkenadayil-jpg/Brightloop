@@ -14,6 +14,12 @@ Manage products, plans, subscriptions, invoices and payments in one platform, wi
 
 </div>
 
+<div align="center">
+
+![Brightloop demo](docs/screenshots/brightloop-demo.gif)
+
+</div>
+
 ---
 
 ## Overview
@@ -25,6 +31,9 @@ Brightloop is a full-stack subscription billing system built for businesses that
 ---
 
 ## Screenshots
+
+<details>
+<summary><b>Click to view all screenshots</b></summary>
 
 ### Admin dashboard
 ![Admin Dashboard](docs/screenshots/admin-dashboard.png)
@@ -52,6 +61,8 @@ Brightloop is a full-stack subscription billing system built for businesses that
 
 ### Printable invoices
 ![Invoice Print](docs/screenshots/invoice-print.png)
+
+</details>
 
 ---
 
@@ -126,20 +137,6 @@ Each role sees only the pages and records it needs. Customers see just **My Subs
 | Charts | Custom React / SVG chart components (3D pie charts, bar charts) |
 | Hosting | Vercel |
 | Currency | Indian Rupee (₹) with GST |
-
----
-
-## Try the Demo
-
-Open **https://brightloop-liart.vercel.app** and sign in with one of the demo accounts below to see each role:
-
-| Role | Email | Password |
-|---|---|---|
-| Admin | `<demo-admin-email>` | `<password>` |
-| Staff | `<demo-staff-email>` | `<password>` |
-| Customer | `<demo-customer-email>` | `<password>` |
-
-> Demo accounts contain test data only. Please don't enter personal information.
 
 ---
 
