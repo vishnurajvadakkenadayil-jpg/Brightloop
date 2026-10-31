@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Secrets (keep .env.example)
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+.DS_Store
+
+# Backup files
+*.bak*
+add-*.mjs
+rename-activity.mjs
+setup.mjs
+ui-refresh.mjs
+pie3d.mjs
